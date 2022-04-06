@@ -11,3 +11,5 @@ class AtmLocation(Base):
     lat = Column(CHAR(9))
     lng = Column(CHAR(9))
     number_ATMs = TINYINT
+
+    return
