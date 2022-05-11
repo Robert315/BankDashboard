@@ -1,4 +1,3 @@
-
 from Utils.utils import Base
 from sqlalchemy import Column, String, Integer, Date 
 

@@ -10,6 +10,4 @@ class AtmLocation(Base):
     adress = Column(VARCHAR(200))
     lat = Column(CHAR(9))
     lng = Column(CHAR(9))
-    number_ATMs = TINYINT
-
-    return
+    number_atms = TINYINT
